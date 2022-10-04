@@ -1,0 +1,20 @@
+#banner{
+	width: 450px;
+	height: 450px;
+}
+.pagina1{
+	display: inline-block;
+
+}
+form label, form p{
+display:block;
+ font-size: 20px;
+margin: 0 0 10px;
+
+}
+form input {
+display: block;
+  margin: 0 0 10px; 
+   padding: 5px 5px;
+   width: 12%
+}
